@@ -1,0 +1,100 @@
+{
+    "Hyderabad": {
+        "places": [
+            {
+                "name": "Charminar",
+                "type": "History"
+            },
+            {
+                "name": "Golconda Fort",
+                "type": "History"
+            },
+            {
+                "name": "Hussain Sagar Lake",
+                "type": "Nature"
+            },
+            {
+                "name": "Ramoji Film City",
+                "type": "Entertainment"
+            }
+        ],
+        "activities": [
+            "Visit local markets",
+            "Explore historical monuments",
+            "Enjoy a city sightseeing tour",
+            "Visit a local cultural attraction"
+        ],
+        "food": [
+            "Try Hyderabadi Biryani",
+            "Taste local street food",
+            "Try traditional Hyderabadi dishes",
+            "Enjoy a local restaurant"
+        ]
+    },
+
+    "Bangalore": {
+        "places": [
+            {
+                "name": "Lalbagh Botanical Garden",
+                "type": "Nature"
+            },
+            {
+                "name": "Bangalore Palace",
+                "type": "History"
+            },
+            {
+                "name": "Cubbon Park",
+                "type": "Nature"
+            },
+            {
+                "name": "Vidhana Soudha",
+                "type": "History"
+            }
+        ],
+        "activities": [
+            "Explore the city center",
+            "Visit local attractions",
+            "Enjoy a sightseeing tour",
+            "Explore local markets"
+        ],
+        "food": [
+            "Try South Indian breakfast",
+            "Taste local cuisine",
+            "Try Bangalore street food",
+            "Enjoy a traditional dinner"
+        ]
+    },
+
+    "Delhi": {
+        "places": [
+            {
+                "name": "India Gate",
+                "type": "History"
+            },
+            {
+                "name": "Red Fort",
+                "type": "History"
+            },
+            {
+                "name": "Lotus Temple",
+                "type": "Culture"
+            },
+            {
+                "name": "Qutub Minar",
+                "type": "History"
+            }
+        ],
+        "activities": [
+            "Explore Old Delhi",
+            "Visit historical monuments",
+            "Explore local markets",
+            "Enjoy a city sightseeing tour"
+        ],
+        "food": [
+            "Try Delhi street food",
+            "Taste North Indian cuisine",
+            "Try local snacks",
+            "Enjoy a traditional dinner"
+        ]
+    }
+}
